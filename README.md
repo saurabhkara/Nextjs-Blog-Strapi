@@ -1,5 +1,17 @@
-# 🚀 Getting started with Strapi
+This repository is backned for Next Blog built using next.js, tailwind css and strapi headless cms.
 
+Repoistory of UI of Next Blog : https://github.com/saurabhkara/Nextjs-Blog
+
+
+
+
+
+
+
+
+
+
+# 🚀 Getting started with Strapi
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
 
 ### `develop`
