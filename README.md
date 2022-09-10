@@ -8,8 +8,16 @@ Repoistory of UI of Next Blog : https://github.com/saurabhkara/Nextjs-Blog
 
 
 
+![screencapture-localhost-3000-2022-09-10-09_28_29](https://user-images.githubusercontent.com/28596628/189468789-afc0aa11-8043-4067-8853-551a8d447567.png)
 
 
+
+
+
+
+
+
+![screencapture-localhost-3000-article-how-to-became-react-native-developer-2022-09-10-09_29_14](https://user-images.githubusercontent.com/28596628/189468794-72f96987-9060-459c-9d27-2fa0470a4f69.png)
 
 # 🚀 Getting started with Strapi
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
